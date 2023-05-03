@@ -6,4 +6,5 @@ body {
     background-size:contain;
     background-repeat: no-repeat;
     cursor: pointer;
+    height: 100vh;
 }
